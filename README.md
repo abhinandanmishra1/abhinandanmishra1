@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+<img align="center" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
 ### Hi there, I am Abhinandan Mishra 👋
 
@@ -18,13 +18,9 @@
 - JavaScript 😏
 - Rust 😬
 
-<a href="https://gitstats.me/abhinandanmishra1">
-    <img width="419" height="auto" align="right" alt="abhinandan's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=abhinandanmishra1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-</a>
-
 🛠**Tech Stack**
 
+<div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -45,12 +41,29 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+</div>
+
 <br/>
 <br/>
 <br/>
+<div style="">
+<h2> ⚡ Streak</h2>
+
+<p>
+    <a href="https://github.com/abhinandanmishra1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandanmishra1&theme=black-ice&hide_border=false&count_private=true&stroke=fff&background=0D0106"/>
+    </a>
+</p>
+
+<h2>✔️ Github Stats</h2>
+<a href="https://gitstats.me/abhinandanmishra1">
+    <img width="419" height="auto" align="center" alt="abhinandan's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=abhinandanmishra1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</a>
+</div>
+</br>
 <br/>
-<br/>
-<br/>
+
 <div>
     <li>🌱 I’m currently learning and exploring everything!</li>
 <li>🥅 My 2022 Goals: Learn more about development and make a lot of projects😎</li>
@@ -59,7 +72,7 @@
 <a style="text-decoration:none;color:green" href="https://abhinandanmishra1.github.io/mathgame/"> Maths Mastery</a>
 </li>
 </div>
-
+<br/>
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
