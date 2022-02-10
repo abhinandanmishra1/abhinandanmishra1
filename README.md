@@ -27,14 +27,14 @@
 
 💻 **Things I love**
 
-- CPP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Solving Problems ✍️
-- React (●'◡'●)
-- Angular 😒
-- GraphQL 😬
-- CSS 😎
-- JavaScript 😏
-- Rust 😬
+<div>CPP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
+<div>Solving Problems ✍️</div>
+<div>React (●'◡'●)</div>
+<div>Angular 😒</div>
+<div>GraphQL 😬</div>
+<div>CSS 😎</div>
+<div>JavaScript 😏</div>
+<div>Rust 😬</div>
 
 🛠**Tech Stack**
 
@@ -83,12 +83,12 @@
 <br/>
 
 <div>
-    <li>🌱 I’m currently learning and exploring everything!</li>
-<li>🥅 My 2022 Goals: Learn more about development and make a lot of projects😎</li>
-<li>⚡ I love mathematics✔️</li>
-<li>😻 Check out my website of maths mastery:
+    <div>🌱 I’m currently learning and exploring everything!</div>
+<div>🥅 My 2022 Goals: Learn more about development and make a lot of projects😎</div>
+<div>⚡ I love mathematics✔️</div>
+<div>😻 Check out my website of maths mastery:
 <a style="text-decoration:none;color:green" href="https://abhinandanmishra1.github.io/mathgame/"> Maths Mastery</a>
-</li>
+</div>
 </div>
 <br/>
 <div align="center">
