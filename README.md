@@ -1,11 +1,29 @@
-<img align="center" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+<div style="display:flex;justify-content:center;">
+    <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+</div>
 
-### Hi there, I am Abhinandan Mishra 👋
+<h2 style="text-align:center">Hi there, I am Abhinandan Mishra 👋</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanmishra1" alt="abhinandanmishra1" /> </p>
+<div style="display:flex; justify-content:space-between">
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanmishra1" alt="abhinandanmishra1" /> </p>
+
+<div style="display:flex; justify-content:space-between">
+ 
+<div style="margin-right:5px;margin-left:5px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhinandan_Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandanmishra1/)](https://www.linkedin.com/in/abhinandanmishra1/)
+
+</div>
+
+<div>
+
 [![Gmail Badge](https://img.shields.io/badge/-abhinandanmishra360@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandanmishra360@gmail.com)](mailto:abhinandanmishra360@gmail.com)
+
+</div>
+
+</div>
+
+</div>
 
 💻 **Things I love**
 
