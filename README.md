@@ -2,6 +2,8 @@
 
 ### Hi there, I am Abhinandan Mishra 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanmishra1" alt="abhinandanmishra1" /> </p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Abhinandan_Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandanmishra1/)](https://www.linkedin.com/in/abhinandanmishra1/)
 [![Gmail Badge](https://img.shields.io/badge/-abhinandanmishra360@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandanmishra360@gmail.com)](mailto:abhinandanmishra360@gmail.com)
 
