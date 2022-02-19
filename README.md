@@ -51,8 +51,7 @@
 <h2> ⚡ Streak</h2>
 
 <p>
-    <a href="https://github.com/abhinandanmishra1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=abhinandanmishra1&date_format=M%20j%5B%2C%20Y%5D&background=0D0106&border=DDD8D1&stroke=DDDDDD&ring=DD9E3F&fire=DD710C&currStreakNum=DD9F0A&sideNums=DD9F0A&currStreakLabel=DD710C&sideLabels=DD710C&dates=DDDDDD"/> </a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=abhinandanmishra1&date_format=M%20j%5B%2C%20Y%5D&background=0D0106&border=DDD8D1&stroke=DDDDDD&ring=DD9E3F&fire=DD710C&currStreakNum=DD9F0A&sideNums=DD9F0A&currStreakLabel=DD710C&sideLabels=DD710C&dates=DDDDDD"/>
 
 </p>
 
