@@ -1,29 +1,12 @@
-<div style="display:flex;justify-content:center;">
-    <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+<div>
+    <img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 </div>
 
 <h2 style="text-align:center">Hi there, I am Abhinandan Mishra 👋</h2>
-
-<div style="display:flex; justify-content:space-between">
-<p  align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanmishra1" alt="abhinandanmishra1" /> </p>
-
-<div style="display:flex; justify-content:space-between">
- 
-<div style="margin-right:5px;margin-left:5px">
+<p  > <img align="left" src="https://komarev.com/ghpvc/?username=abhinandanmishra1" alt="abhinandanmishra1" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhinandan_Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandanmishra1/)](https://www.linkedin.com/in/abhinandanmishra1/)
-
-</div>
-
-<div>
-
 [![Gmail Badge](https://img.shields.io/badge/-abhinandanmishra360@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandanmishra360@gmail.com)](mailto:abhinandanmishra360@gmail.com)
-
-</div>
-
-</div>
-
-</div>
 
 💻 **Things I love**
 
@@ -35,8 +18,9 @@
 <div>CSS 😎</div>
 <div>JavaScript 😏</div>
 <div>Rust 😬</div>
+</br>
 
-🛠**Tech Stack**
+🛠 **Tech Stack**
 
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -64,13 +48,13 @@
 <br/>
 <br/>
 <br/>
+
 <div style="">
-<h2> ⚡ Streak</h2>
+<h2>⚡Streak</h2>
 
 <p>
-    <a href="https://github.com/abhinandanmishra1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandanmishra1&theme=black-ice&hide_border=false&count_private=true&stroke=fff&background=0D0106"/>
-    </a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=abhinandanmishra1&date_format=M%20j%5B%2C%20Y%5D&background=0D0106&border=DDD8D1&stroke=DDDDDD&ring=DD9E3F&fire=DD710C&currStreakNum=DD9F0A&sideNums=DD9F0A&currStreakLabel=DD710C&sideLabels=DD710C&dates=DDDDDD"/>
+
 </p>
 
 <h2>✔️ Github Stats</h2>
