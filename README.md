@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 <div>
     <img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+=======
+<div style="display:flex;justify-content:center;">
+    <img align="left" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+>>>>>>> 809b041b683c18c80dc8da42cf6fbd09f22f4085
 </div>
 
 <h2 style="text-align:center">Hi there, I am Abhinandan Mishra 👋</h2>
@@ -46,8 +51,11 @@
 </div>
 
 <br/>
+<<<<<<< HEAD
 <br/>
 <br/>
+=======
+>>>>>>> 809b041b683c18c80dc8da42cf6fbd09f22f4085
 
 <div style="">
 <h2>⚡Streak</h2>
