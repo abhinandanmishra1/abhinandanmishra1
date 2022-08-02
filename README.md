@@ -62,21 +62,21 @@
 <br/>
 <br/>
 <br/>
-
-<div style="">
-<h2>⚡Streak</h2>
-
-<p>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=abhinandanmishra1&date_format=M%20j%5B%2C%20Y%5D&background=0D0106&border=DDD8D1&stroke=DDDDDD&ring=DD9E3F&fire=DD710C&currStreakNum=DD9F0A&sideNums=DD9F0A&currStreakLabel=DD710C&sideLabels=DD710C&dates=DDDDDD"/>
-
-</p>
-
-<h2>✔️ Github Stats</h2>
-<a href="https://gitstats.me/abhinandanmishra1">
-    <img width="419" height="auto" align="center" alt="abhinandan's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=abhinandanmishra1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-</a>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanmishra1&exclude_repo=LeetCode-Practice,placement-preparation,DSA-Weekly-LeetCode-Practice" >
 </div>
+
+<div align="center">
+<kbd>
+<img align="center" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=abhinandanmishra1&date_format=M%20j%5B%2C%20Y%5D&background=0D0106&border=DDD8D1&stroke=DDDDDD&ring=DD9E3F&fire=DD710C&currStreakNum=DD9F0A&sideNums=DD9F0A&currStreakLabel=DD710C&sideLabels=DD710C&dates=DDDDDD" />
+</kbd>
+
+<kbd>
+<img align="center" width="400" height="auto" align="center" alt="abhinandan's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=abhinandanmishra1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</kbd>
+</div>
+
 </br>
 <br/>
 
