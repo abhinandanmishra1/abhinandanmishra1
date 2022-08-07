@@ -9,21 +9,30 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abhinandan_Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandanmishra1/)](https://www.linkedin.com/in/abhinandanmishra1/)
 [![Gmail Badge](https://img.shields.io/badge/-abhinandanmishra360@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandanmishra360@gmail.com)](mailto:abhinandanmishra360@gmail.com)
 
-<div align="center">
-<div>
-💻 <b> Things I Love</b>
-</div>
-<br>
+<table border="2" align="center">
+ <tr>
+    <td><b style="font-size:30px">Things I like to do...</b></td>
+    <td><b style="font-size:30px">Devcard</b></td>
+ </tr>
+ <tr>
+    <td width="300">
+    <div width="500" float="left">
 <div>CPP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 <div>Solving Problems ✍️</div>
 <div>React (●'◡'●)</div>
 <div>Angular 😒</div>
-<div>GraphQL 😬</div>
 <div>CSS 😎</div>
 <div>JavaScript 😏</div>
 <div>Rust 😬</div>
 <div>Designing and Creating using CSS 💙</div>
-</div>
+</div></td>
+    <td><img width="300" float="right" src="https://github.com/abhinandanmishra1/abhinandanmishra1/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></td>
+ </tr>
+</table>
+
+
+
+
 </br>
 
 🛠 **Tech Stack and Tools**
