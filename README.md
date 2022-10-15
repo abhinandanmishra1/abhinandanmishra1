@@ -99,7 +99,7 @@
 </div>
 <br/>
 <div align="center">
-    <h3 align="center">Open for Opportunities 👉 <h2>Contact Me</h2></h3>
+    <h3 align="center">Open for Opportunities 👉 <h2><a href="https://linktr.ee/abhinandan_mishra_1">Contact Me</a></h2></h3>
 </div>
 
 ---
