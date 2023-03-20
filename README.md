@@ -101,6 +101,12 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://abhinandanmishra1.hashnode.dev//distributed-system" title="Distributed System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679245356695/dc59d7f6-ce37-441d-8772-1d23b305dfe1.jpeg" alt="Distributed System" width="250px" align="left" /></a>
+<a href="https://abhinandanmishra1.hashnode.dev//distributed-system" title="Distributed System"><strong>Distributed System</strong></a>
+<br/> Distributed systems are used in various applications ranging from e-commerce websites to large-scale data processing applications.
+
+A distributed system is a collection of independent computers that communicate and coordinate with each other to achie... </p> <br/> <br/>
+<p align="left">
 <a href="https://abhinandanmishra1.hashnode.dev//goals-and-types-of-operating-system" title="Goals and Types of Operating System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677419882006/c0838f69-6611-4727-ba52-2e5e8b3e54a4.jpeg" alt="Goals and Types of Operating System" width="250px" align="left" /></a>
 <a href="https://abhinandanmishra1.hashnode.dev//goals-and-types-of-operating-system" title="Goals and Types of Operating System"><strong>Goals and Types of Operating System</strong></a>
 <br/> Prerequisite:
@@ -145,19 +151,6 @@ Previous Blog - Read Here
 
 useCallback Hook
 useCal... </p> <br/> <br/>
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//react-hooks-the-base-of-react-components-part-2" title="React Hooks: The Base of React Components  [Part - 2]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675865939491/97aed3ab-8628-41cb-b129-aa5d6f879843.webp" alt="React Hooks: The Base of React Components  [Part - 2]" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//react-hooks-the-base-of-react-components-part-2" title="React Hooks: The Base of React Components  [Part - 2]"><strong>React Hooks: The Base of React Components  [Part - 2]</strong></a>
-<br/> Prerequisite
-
-Basic knowledge of React - Read my react blogs
-
-Basic knowledge of hooks - Read the previous blog.
-
-
-What did we learn in the previous blog?
-
-We learned about how react was before the hooks and how it was very hard for developers to wri... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br/>
