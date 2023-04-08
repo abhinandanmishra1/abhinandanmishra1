@@ -101,6 +101,11 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://abhinandanmishra1.hashnode.dev//introduction-to-computer-networking" title="Introduction to Computer Networking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680868774107/59a66f1e-ac51-41ae-b34d-d04b8102eb40.webp" alt="Introduction to Computer Networking" width="250px" align="left" /></a>
+<a href="https://abhinandanmishra1.hashnode.dev//introduction-to-computer-networking" title="Introduction to Computer Networking"><strong>Introduction to Computer Networking</strong></a>
+<br/> Introduction
+Computer networks are an essential part of our daily lives. Whether it's accessing the internet, sending emails, or streaming videos, we rely on networks to transfer data between devices. In this blog, we will take a look at the basics o... </p> <br/> <br/>
+<p align="left">
 <a href="https://abhinandanmishra1.hashnode.dev//distributed-system" title="Distributed System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679245356695/dc59d7f6-ce37-441d-8772-1d23b305dfe1.jpeg" alt="Distributed System" width="250px" align="left" /></a>
 <a href="https://abhinandanmishra1.hashnode.dev//distributed-system" title="Distributed System"><strong>Distributed System</strong></a>
 <br/> Distributed systems are used in various applications ranging from e-commerce websites to large-scale data processing applications.
@@ -137,20 +142,6 @@ Read my previous blogs about React and React hooks for a better understanding.
 
 Recall: React hooks
 Hooks provide a way to use state and other React features in functional... </p> <br/> <br/>
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//react-hooks-the-base-of-react-components-part-3" title="React Hooks: The Base of React Components  [Part - 3]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676108313548/0e14b483-7b34-485e-98d7-eef7240fd6a9.webp" alt="React Hooks: The Base of React Components  [Part - 3]" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//react-hooks-the-base-of-react-components-part-3" title="React Hooks: The Base of React Components  [Part - 3]"><strong>React Hooks: The Base of React Components  [Part - 3]</strong></a>
-<br/> What we have learned till now?
-
-We have learned what react hooks are and how it is very useful.
-
-We have learned the use and implementation of useState, useEffect , useContext and useReducer hooks.
-
-Previous Blog - Read Here
-
-
-useCallback Hook
-useCal... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br/>
