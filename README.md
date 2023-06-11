@@ -101,6 +101,11 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://abhinandanmishra1.hashnode.dev//a-comprehensive-guide-to-types-of-computer-networks-and-network-topologies" title="A Comprehensive Guide to Types of computer networks and network topologies"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686402192545/3d8ec2f8-6df5-4751-b3f8-f23fc466c7b8.avif" alt="A Comprehensive Guide to Types of computer networks and network topologies" width="250px" align="left" /></a>
+<a href="https://abhinandanmishra1.hashnode.dev//a-comprehensive-guide-to-types-of-computer-networks-and-network-topologies" title="A Comprehensive Guide to Types of computer networks and network topologies"><strong>A Comprehensive Guide to Types of computer networks and network topologies</strong></a>
+<br/> Overview
+Computer Networking has become an integral part of our lives. It is used to connect computers and devices across the globe, enabling us to share information and communicate with each other. From sending a simple email to video conferencing o... </p> <br/> <br/>
+<p align="left">
 <a href="https://abhinandanmishra1.hashnode.dev//introduction-to-computer-networking" title="Introduction to Computer Networking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680868774107/59a66f1e-ac51-41ae-b34d-d04b8102eb40.webp" alt="Introduction to Computer Networking" width="250px" align="left" /></a>
 <a href="https://abhinandanmishra1.hashnode.dev//introduction-to-computer-networking" title="Introduction to Computer Networking"><strong>Introduction to Computer Networking</strong></a>
 <br/> Introduction
@@ -130,18 +135,6 @@ Basic knowledge of computer programming.
 
 What if there's no Operating System?
 If there is no operating system, the computer system would not function properly. Let's consider two popular applications: Microsoft Word and Google Chrome.... </p> <br/> <br/>
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//the-power-of-custom-hooks-reusable-logic-for-react-applications" title="The Power of Custom Hooks: Reusable Logic for React Applications"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676621769137/dea71ce7-682b-4439-ab1a-9ef63e84cb5a.webp" alt="The Power of Custom Hooks: Reusable Logic for React Applications" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//the-power-of-custom-hooks-reusable-logic-for-react-applications" title="The Power of Custom Hooks: Reusable Logic for React Applications"><strong>The Power of Custom Hooks: Reusable Logic for React Applications</strong></a>
-<br/> Prerequisite
-
-Should know basic React, React Hooks and JavaScript functions.
-
-Read my previous blogs about React and React hooks for a better understanding.
-
-
-Recall: React hooks
-Hooks provide a way to use state and other React features in functional... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br/>
