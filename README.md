@@ -1,145 +1,21 @@
-<div align="center">
-    <img 
-    align="center"src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="400" height="300">
-</div>
-
-<h2 style="text-align:center">Hi there, I am Abhinandan Mishra 👋</h2>
-<p  > <img align="left" src="https://komarev.com/ghpvc/?username=abhinandanmishra1" alt="abhinandanmishra1" /> </p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Abhinandan_Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandanmishra1/)](https://www.linkedin.com/in/abhinandanmishra1/)
-[![Gmail Badge](https://img.shields.io/badge/-abhinandanmishra360@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandanmishra360@gmail.com)](mailto:abhinandanmishra360@gmail.com)
-
-<table border="2" align="center">
- <tr>
-    <td><b style="font-size:30px">Things I like to do...</b></td>
-    <td><b style="font-size:30px">Devcard</b></td>
- </tr>
- <tr>
-    <td width="300">
-    <div width="500" float="left">
-<div>CPP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
-<div>Solving Problems ✍️</div>
-<div>React (●'◡'●)</div>
-<div>Angular 😒</div>
-<div>CSS 😎</div>
-<div>JavaScript 😏</div>
-<div>Rust 😬</div>
-<div>Designing and Creating using CSS 💙</div>
-</div></td>
-    <td><img width="300" float="right" src="https://github.com/abhinandanmishra1/abhinandanmishra1/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></td>
- </tr>
-</table>
+# 💫 About Me:
+<br>Full Stack Developer with a strong focus on React, JavaScript, Node.js, Express, Python, FastAPI, and CSS. Possessing a maximum rating of 2000+ on Leetcode, with a successful track record of solving over 1000+ coding problems across various platforms. <br><br>Currently serving as a Software Engineer at Cosmocloud, leading the development of full features and working proficiently on both backend and frontend using Python and FastAPI for the backend, and React and Typescript for the frontend.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_mishra_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandanmishra1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhinandan_0001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbhinandanMishra1) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhinandanmishra1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhinandanmishra1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanmishra1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</br>
-
-🛠 **Tech Stack and Tools**
-
-<div>
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-
-</div>
-
-<br/>
-<br/>
-<br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanmishra1&exclude_repo=LeetCode-Practice,placement-preparation,DSA-Weekly-LeetCode-Practice" >
-</div>
-
-<div align="center">
-<kbd>
-<img align="center" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=abhinandanmishra1&date_format=M%20j%5B%2C%20Y%5D&background=0D0106&border=DDD8D1&stroke=DDDDDD&ring=DD9E3F&fire=DD710C&currStreakNum=DD9F0A&sideNums=DD9F0A&currStreakLabel=DD710C&sideLabels=DD710C&dates=DDDDDD" />
-</kbd>
-
-<kbd>
-<img align="center" width="400" height="auto" align="center" alt="abhinandan's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=abhinandanmishra1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-</kbd>
-</div>
-
-</br>
-<br/>
-
-<div>
-    <div>🌱 I’m currently learning and exploring everything!</div>
-<div>🥅 My 2022 Goals: Learn more about development and make a lot of projects😎</div>
-<div>⚡ I love mathematics✔️</div>
-<div>😻 Check out my website of maths mastery:
-<a style="text-decoration:none;color:green" href="https://abhinandanmishra1.github.io/mathgame/"> Maths Mastery</a>
-</div>
-</div>
-
-# Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//a-comprehensive-guide-to-types-of-computer-networks-and-network-topologies" title="A Comprehensive Guide to Types of computer networks and network topologies"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686402192545/3d8ec2f8-6df5-4751-b3f8-f23fc466c7b8.avif" alt="A Comprehensive Guide to Types of computer networks and network topologies" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//a-comprehensive-guide-to-types-of-computer-networks-and-network-topologies" title="A Comprehensive Guide to Types of computer networks and network topologies"><strong>A Comprehensive Guide to Types of computer networks and network topologies</strong></a>
-<br/> Overview
-Computer Networking has become an integral part of our lives. It is used to connect computers and devices across the globe, enabling us to share information and communicate with each other. From sending a simple email to video conferencing o... </p> <br/> <br/>
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//introduction-to-computer-networking" title="Introduction to Computer Networking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680868774107/59a66f1e-ac51-41ae-b34d-d04b8102eb40.webp" alt="Introduction to Computer Networking" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//introduction-to-computer-networking" title="Introduction to Computer Networking"><strong>Introduction to Computer Networking</strong></a>
-<br/> Introduction
-Computer networks are an essential part of our daily lives. Whether it's accessing the internet, sending emails, or streaming videos, we rely on networks to transfer data between devices. In this blog, we will take a look at the basics o... </p> <br/> <br/>
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//distributed-system" title="Distributed System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679245356695/dc59d7f6-ce37-441d-8772-1d23b305dfe1.jpeg" alt="Distributed System" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//distributed-system" title="Distributed System"><strong>Distributed System</strong></a>
-<br/> Distributed systems are used in various applications ranging from e-commerce websites to large-scale data processing applications.
-
-A distributed system is a collection of independent computers that communicate and coordinate with each other to achie... </p> <br/> <br/>
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//goals-and-types-of-operating-system" title="Goals and Types of Operating System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677419882006/c0838f69-6611-4727-ba52-2e5e8b3e54a4.jpeg" alt="Goals and Types of Operating System" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//goals-and-types-of-operating-system" title="Goals and Types of Operating System"><strong>Goals and Types of Operating System</strong></a>
-<br/> Prerequisite:
-
-Read my previous blog - Read Here
-
-Goals of an Operating System
-The primary purpose of operating systems is to efficiently manage and utilize the computer's hardware resources to maximize output and efficiency.
-To achieve this goal, op... </p> <br/> <br/>
-<p align="left">
-<a href="https://abhinandanmishra1.hashnode.dev//what-is-an-operating-system-and-why-theres-a-need-of-it" title="What is an operating system and why there's a need of it?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677407720870/09b5b0cc-2dc2-4374-be81-e069896fd11f.jpeg" alt="What is an operating system and why there's a need of it?" width="250px" align="left" /></a>
-<a href="https://abhinandanmishra1.hashnode.dev//what-is-an-operating-system-and-why-theres-a-need-of-it" title="What is an operating system and why there's a need of it?"><strong>What is an operating system and why there's a need of it?</strong></a>
-<br/> Prerequisite:
-
-Basic knowledge of computer programming.
-
-What if there's no Operating System?
-If there is no operating system, the computer system would not function properly. Let's consider two popular applications: Microsoft Word and Google Chrome.... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
-<br/>
-<div align="center">
-    <h3 align="center">Open for Opportunities 👉 <a target="_blank" href="https://linktr.ee/abhinandan_mishra_1"><kbd>Contact Me</kbd></a</h3>
-</div>
+### ✍️ Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abhinandanmishra1&icon=8&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
