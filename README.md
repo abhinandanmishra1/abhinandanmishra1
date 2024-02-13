@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>Full Stack Developer with a strong focus on React, JavaScript, Node.js, Express, Python, FastAPI, and CSS. Possessing a maximum rating of 2000+ on Leetcode, with a successful track record of solving over 1000+ coding problems across various platforms. <br><br>Currently serving as a Software Engineer at Cosmocloud, leading the development of full features and working proficiently on both backend and frontend using Python and FastAPI for the backend, and React and Typescript for the frontend.
-
+<br>Full Stack Developer with a strong focus on **React**, **JavaScript**, **Dotnet**, **Angular**, **Node.js**, **Express**, **Python**, **FastAPI**, and **CSS**. Possessing a maximum rating of 2000+ on Leetcode, with a successful track record of solving over 1000+ coding problems across various platforms. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_mishra_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandanmishra1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhinandan_0001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbhinandanMishra1) 
