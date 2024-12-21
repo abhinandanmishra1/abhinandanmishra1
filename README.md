@@ -1,20 +1,59 @@
-# 💫 About Me:
-<br>Full Stack Developer with a strong focus on **React**, **JavaScript**, **Dotnet**, **Angular**, **Node.js**, **Express**, **Python**, **FastAPI**, and **CSS**. Possessing a maximum rating of 2000+ on Leetcode, with a successful track record of solving over 1000+ coding problems across various platforms. <br>
+# Hi there 👋, I am Abhinandan Mishra
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_mishra_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandanmishra1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhinandan_0001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbhinandanMishra1) 
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a strong focus on **React**, **JavaScript**, **Dotnet**, **Angular**, **Node.js**, **Express**, **Python**, **FastAPI**, and **CSS**. Here you'll find a collection of projects and contributions that reflect my skills and interests.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhinandanmishra1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinandanmishra1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanmishra1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Technologies & Tools
 
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Languages:** C++, JavaScript, Python, TypeScript
+- **Frameworks & Libraries:** React, Angular, Node.js, Express, Dotnet, FastAPI
+- **Tools:** Git, Docker, VS Code
+- **Databases:** MySQL, MongoDB, PostgreSQL
+
+## 🌱 Currently Learning
+
+- **System Design** and writing [articles](https://abhinandanmishra1.hashnode.dev/series/system-design) based on my learnings.
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_mishra_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+## 🔭 Projects
+
+Here are a few projects I've worked on:
+
+1. [Leetcode Profiler](https://github.com/abhinandanmishra1/leetcode-profiler) - An NPM package that enables developers to display their Leetcode stats effortlessly on their personal websites or portfolios, providing seamless integration and easy customization.
+
+2. [Google Docs Clone](https://github.com/abhinandanmishra1/google-docs-clone) - A collaborative real-time editor built with React and Firebase, featuring live syncing, version control, and an intuitive interface for creating and editing documents.
+
+3. [CodersPortfolio](https://github.com/abhinandanmishra1/codersportfolio) - A portfolio generator specifically designed for competitive programmers, offering a structured layout to showcase achievements, problems solved, and rankings across various platforms.
+
+4. [Scratch Animation](https://github.com/abhinandanmishra1/scratch-animation) - A React + TypeScript-based tool that allows users to create and animate interactive visual elements, making animation creation simple and fun.
+
+## 🤝 Contributions
+
+I love collaborating and contributing to open-source projects. Here are some contributions I'm proud of:
+
+**Leetcode Problems Contributions**
+- [Missing Test Case - 134. Gas Station](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/6086)
+- [Missing Test Case - 381. Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/6395)
+- [Missing Test Case - 796. Rotate String](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/6569)
+- [Problem Statement Update - 28. Implement strStr()](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/6724)
+
+## ✍️ Quote of the day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 💬 Ask Me About
+
+- Designing the system
+- Building complex user interfaces
+- Computer Science concepts
+
+## ⚡ Fun Fact
+
+- Null is real
+
+Thank you for visiting my profile! Let's connect and collaborate on exciting projects. 🚀
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhinandanmishra1&icon=8&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
