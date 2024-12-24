@@ -4,10 +4,11 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C++, JavaScript, Python, TypeScript
-- **Frameworks & Libraries:** React, Angular, Node.js, Express, Dotnet, FastAPI
-- **Tools:** Git, Docker, VS Code
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Languages:** 	[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#), 	[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#), [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+- **Frameworks & Libraries:** [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#), [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#), [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#), [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#), [![](https://img.shields.io/badge/.NET-512BD4?logo=dotnet-core&logoColor=fff)](#), [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+- **Tools:** [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#), [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#), [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#), [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#), [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+- **Databases:** [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#), [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#), [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#), [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+- **Cloud:** [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#), [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#), [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 ## 🌱 Currently Learning
 
@@ -15,7 +16,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_mishra_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_mishra_1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandanmishra1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/abhinandanmishra1/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://abhinandanmishra1.hashnode.dev/)
 
 ## 🔭 Projects
 
