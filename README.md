@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 ## 🌱 Currently Learning
 
 - **System Design** and writing [articles](https://abhinandanmishra1.hashnode.dev/series/system-design) based on my learnings.
+- **Advanced frontend concepts** and creating projects daily based on my learning - [Frontend-365 Repo](https://github.com/abhinandanmishra1/frontend-365)
 
 ## 🌐 Socials
 
