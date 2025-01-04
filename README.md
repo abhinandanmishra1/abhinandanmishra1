@@ -54,6 +54,10 @@ I love collaborating and contributing to open-source projects. Here are some con
 - Building complex user interfaces
 - Computer Science concepts
 
+## Hobby
+### Reading Articles
+<a href="https://app.daily.dev/abhinandanmishra1"><img src="https://api.daily.dev/devcards/v2/yLZZtMTP7pVQoHJ2lldbI.png?type=wide&r=hfp" width="652" alt="Abhinandan Mishra's Dev Card"/></a>
+
 ## ⚡ Fun Fact
 
 - Null is real
