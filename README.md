@@ -23,8 +23,8 @@
 📌 **Markdown Editor** – GitHub-integrated markdown editor built with Next.js   - 👨🏻‍💻 Work in progress
 
 ## 📚 Recent Blog Posts  
-🚀 [Exploring System Design Concepts](https://blog.abhinandanmishra.in)  
-🎯 [Advanced React Patterns You Should Know](https://blog.abhinandanmishra.in)  
+🚀 [Exploring System Design Concepts](https://blog.abhinandanmishra.in/categories/system-design)  
+🎯 [Advanced React Patterns You Should Know](https://blog.abhinandanmishra.in/categories/react)  
 
 ## 🤝 Contributions
 
