@@ -9,12 +9,24 @@
 ## 💡 About Me  
 👋 Hi, I'm Abhinandan Mishra, a Software Engineer at **Project44** with expertise in building scalable, performant applications using modern web technologies. I love problem-solving and sharing knowledge through articles and open-source contributions.  
 
+🔹 **Experience:**
+- **Software Engineer I** — [Project44](https://project44.com)
+- **Specialist Programmer** — [Infosys](https://www.infosys.com/)
+- **Software Engineer** — [Cosmocloud](https://cosmocloud.io/)
+- **Scaler Academy** — [Scaler](https://www.scaler.com/)
+   - Technical Content Owner (Freelance)
+   - SDE Intern
+- **Imocha** — [Imocha](https://www.imocha.io/)
+  - Angular Problem Setter
+  - DSA Problem Setter
+
 🔹 **Tech Stack:**  
-- **Frontend:** React.js, JavaScript, TypeScript, Next.js, Angular, Tailwind CSS, ShadCN  
-- **Backend:** Node.js, NestJS, .NET Core  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-- **DevOps & Cloud:** Microsoft Azure, AWS, Vercel 
-- **Other Tools:** Git, Docker, Redis, WebSockets  
+- **Frontend:** React.js, JavaScript, TypeScript, Next.js, Angular, CSS  
+- **Backend:** Java & SpringBoot, Node.js & Express, Python & FastAPI, NestJS, .NET Core, Kafka
+- **AI:** MCP servers, Multiagents using A2A
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Redis
+- **DevOps & Cloud:** Docker, Kubernetes, Microsoft Azure, AWS, Vercel, Google Cloud Run
+- **Other Tools:** Git  
 
 🔹 **Recent Projects:**  
 📌 **[Frontend 365 Challenge](https://frontend365.vercel.app/)** – Building UI components daily using React & Tailwind  
