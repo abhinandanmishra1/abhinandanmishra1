@@ -60,8 +60,7 @@ I love collaborating and contributing to open-source projects. Here are some con
 <a href="https://app.daily.dev/abhinandanmishra1"><img src="https://api.daily.dev/devcards/v2/yLZZtMTP7pVQoHJ2lldbI.png?type=wide&r=hfp" width="652" alt="Abhinandan Mishra's Dev Card"/></a>
 
 ### Listening Music
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ctxjvjlitz5b5jkcysvajv7w6i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31carzqfw27q2r6a3fs3zppkavuq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31carzqfw27q2r6a3fs3zppkavuq&redirect=true)
 
 ### Watching movies, anime and web series
 
