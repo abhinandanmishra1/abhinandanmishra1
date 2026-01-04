@@ -10,8 +10,6 @@
 ## 💡 About Me  
 👋 Hi, I'm Abhinandan Mishra, a Software Engineer at **Project44** with expertise in building scalable, performant applications using modern web technologies. I love problem-solving and sharing knowledge through articles and open-source contributions.  
 
-Here’s the same information structured cleanly in **tables** 👇
-
 ---
 
 ### 🔹 Experience
