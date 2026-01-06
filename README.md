@@ -16,7 +16,7 @@
 
 | Role / Position         | Company        | Details    |
 | ----------------------- | -------------- | ---------- |
-| Software Engineer I     | Project44      | Full-time  |
+| **Software Engineer I** | **Project44**  | **Full-time** |
 | Specialist Programmer   | Infosys        | Full-time  |
 | Software Engineer       | Cosmocloud     | Full-time  |
 | Technical Content Owner | Scaler Academy | Freelance  |
