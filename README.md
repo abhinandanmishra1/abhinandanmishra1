@@ -3,12 +3,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinandanmishra1&color=blue&style=flat-square)  
 [![](https://visitcount.itsvg.in/api?id=abhinandanmishra1&icon=8&color=1)](https://visitcount.itsvg.in)
 
-🔹 Expert in both **Frontend & Backend Development**  
-🔹 Passionate about **Scalable Systems, UI/UX, and Cloud Solutions**  
-🔹 Writing technical articles at [blog.abhinandanmishra.in](https://blog.abhinandanmishra.in)  
+## 💡 About Me
 
-## 💡 About Me  
-👋 Hi, I'm Abhinandan Mishra, a Software Engineer at **Project44** with expertise in building scalable, performant applications using modern web technologies. I love problem-solving and sharing knowledge through articles and open-source contributions.  
+👋 Hi, I'm **Abhinandan Mishra**, a Software Engineer at **Project44**, focused on building **scalable, high-performance applications** using modern web technologies.
+
+I enjoy solving complex engineering problems, designing efficient systems, and sharing what I learn through **technical articles and open-source contributions**.
+
+🔹 **Full-Stack Engineer** with strong expertise in **Frontend and Backend Development**
+🔹 Interested in **Scalable Systems, System Design, and Developer Productivity**
+🔹 Passionate about crafting **clean UI/UX and performant applications**
+🔹 I write technical articles at **[blog.abhinandanmishra.in](https://blog.abhinandanmishra.in)**
+
 
 ---
 
