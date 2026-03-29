@@ -16,7 +16,7 @@ I enjoy solving complex engineering problems, designing efficient systems, and s
 
 ### 🔹 Experience
 
-| Role / Position          | Company       | Duration (Month Year – Month Year)          | Details       |
+| Role / Position          | Company       | Duration                                    | Details       |
 | ------------------------ | ------------- | ------------------------------------------- | ------------- |
 | **Software Engineer II** | **Project44** | **March 2026 – Present**                    | **Full-time** |
 | Software Engineer I      | Project44     | Feb 2025 – Mar 2026                         | Full-time     |
