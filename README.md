@@ -16,16 +16,13 @@ I enjoy solving complex engineering problems, designing efficient systems, and s
 
 ### 🔹 Experience
 
-| Role / Position         | Company        | Details    |
-| ----------------------- | -------------- | ---------- |
-| **Software Engineer II** | **Project44**  | **Full-time** |
-| Software Engineer I | Project44  | Full-time |
-| Specialist Programmer   | Infosys        | Full-time  |
-| Software Engineer       | Cosmocloud     | Full-time  |
-| Technical Content Owner | Scaler Academy | Freelance  |
-| SDE Intern              | Scaler Academy | Internship |
-| Angular Problem Setter  | Imocha         | Contract   |
-| DSA Problem Setter      | Imocha         | Contract   |
+| Role / Position          | Company       | Duration (Month Year – Month Year)          | Details       |
+| ------------------------ | ------------- | ------------------------------------------- | ------------- |
+| **Software Engineer II** | **Project44** | **March 2026 – Present**                    | **Full-time** |
+| Software Engineer I      | Project44     | Feb 2025 – Mar 2026                         | Full-time     |
+| Specialist Programmer    | Infosys       | Oct 2023 – Feb 2025                         | Full-time     |
+| Software Engineer        | Cosmocloud    | Jan 2023 – Oct 2023                         | Full-time     |
+
 
 ---
 
