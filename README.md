@@ -32,7 +32,7 @@ I enjoy solving complex engineering problems, designing efficient systems, and s
 | -------------- | --------------------------------------------------------------------------------- |
 | Frontend       | React.js, JavaScript, TypeScript, Next.js, Angular, CSS                           |
 | Backend        | Java & Spring Boot, Node.js & Express, Python & FastAPI, NestJS, .NET Core, Kafka |
-| AI             | MCP Servers, Multi-agent systems using A2A                                        |
+| AI             | MCP Servers, Multi-agent systems                                 |
 | Databases      | PostgreSQL, MySQL, MongoDB, Firebase, Redis                                       |
 | DevOps & Cloud | Docker, Kubernetes, Microsoft Azure, AWS, Vercel, Google Cloud Run                |
 | Other Tools    | Git                                                                               |
